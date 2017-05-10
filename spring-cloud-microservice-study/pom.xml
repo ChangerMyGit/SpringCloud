@@ -42,5 +42,6 @@
 	<modules>
 		<module>microservice-discovery-eureka</module>
 		<module>microservice-provider-user</module>
+		<module>microservice-consumer-movie-ribbon</module>
 	</modules>
 </project>
