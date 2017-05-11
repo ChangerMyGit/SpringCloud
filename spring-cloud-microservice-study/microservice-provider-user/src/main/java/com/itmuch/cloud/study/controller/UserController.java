@@ -23,6 +23,7 @@ public class UserController {
 		user.setId(id);
 		user.setUsername("Changer");
 		user.setAge(36);
+		System.out.println("服务被调用");
 		return user;
 	}
 }
